@@ -12,6 +12,6 @@ del beatles[3]
 
 beatles.insert(0,"Ringo Starr")
 
-# testing list legth
+# testing list length
 print("The Fab", len(beatles))
 print(beatles)
